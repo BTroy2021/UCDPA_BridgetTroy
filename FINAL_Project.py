@@ -60,3 +60,4 @@ ax = FDI_Migration[['FDI inflows as a % of Total GDP', 'Migration in Millions']]
     linestyle='-', marker='o')
 
 plt.show()
+
